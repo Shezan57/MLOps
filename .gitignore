@@ -2,7 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+confusion_matrix.png
+confusion_matrix1.png
+confusion_matrix_grid_search.png
+mlartifacts/
+mlruns/
 # C extensions
 *.so
 .pkl
